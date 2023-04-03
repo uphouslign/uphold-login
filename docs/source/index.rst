@@ -1,7 +1,6 @@
 Uphold Login - Log In
 ===================================
 
-
 Uphold is an online financial platform that provides users with the ability to store, buy, exchange, and invest in a variety of different types of assets. With Uphold, users can easily access their digital money from anywhere in the world.
 
 Uphold’s login process is simple and secure. When a user first visits the Uphold website, they are prompted to create an account. This process requires the user to provide basic information such as their name, email address, and a password. Once the account has been created, the user is then asked to verify their identity by providing additional documentation such as a driver’s license or passport. Once the identity verification has been completed, the user is ready to login to their Uphold account.
